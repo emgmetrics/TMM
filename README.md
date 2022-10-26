@@ -24,9 +24,23 @@ Follow this [link](https://github.com/emgmetrics/TMM/tree/main/Doc) for a detail
 ## CONFIGURATION MANAGEMENT 
 
 ### Tools Requirements
+- Microsoft Windows 64bit OS.
+- Microsoft Visual Studio 2019.
+- OpenCV 4.6.0.
 
 ### Pre-Build Requirements
+- Install OpenCV 4.6.0.
+- Build OpenCV.
+- Add Environment Vairable 'opencv' pointing to the location of the OpenCV installation (ex. opencv=D:\opencv).
+
 
 ### Build Procedures
+- Using Microsoft VS 2019 Open TMM.sln located on the TMM folder.
+- Select Release Configuration and x64 Platform.
+- On the VS IDE Solution Explorer enter the Solution Properties window.
+- On the 'TMM Property Pages' window go to the Debugging page and locate the Command Arguments field.
+- Update Command Arguments field with the location of one of the matching tests folders located in the Tests folder
+- Build an Run the application.
+
 
 ### Runnig Specifications
