@@ -1,5 +1,5 @@
 # TMM
-Template Match with Binary Mask
+## Template Match with Binary Mask - Overview
 
 
 We introduce an implementation of Template Match Algorithm intended to solve the problems of finding a Template image, where arbitrary regions are occluded with binary Mask, within a second large Source image.
@@ -21,3 +21,12 @@ The presented method allows applications to perform efficiently matching tasks w
 
 Follow this [link](https://github.com/emgmetrics/TMM/tree/main/Doc) for a detail description of the Algorithm on the "Finding Templates Images with Masked Regions.pdf" document.
 
+## CONFIGURATION MANAGEMENT 
+
+### Tools Requirements
+
+### Pre-Build Requirements
+
+### Build Procedures
+
+### Runnig Specifications
