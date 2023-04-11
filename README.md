@@ -45,7 +45,7 @@ Follow this [link](https://github.com/emgmetrics/TMM/tree/main/Doc) for a detail
 
 ### Runnig Specifications from command prompt
 - Change to the folder whre the TMM.exe file is located (ex. D:\TMM\x64\Release).
-- Type TMM.exe '<folder-name-of-one-of-the-tests-located-under-Tests-folder>' 1.
+- Type TMM.exe \<folder-name-of-one-of-the-tests-located-under-Tests-folder\> 1.
 - A window with name Mask should open
 - Mark the areas to mask from the Template image by using the mouse, and press Enter.
 - Five windows shall open, including the Matching and key points of the Template image and the Source image.
