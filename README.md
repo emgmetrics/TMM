@@ -19,7 +19,7 @@ The correlation of the Template descriptor is performed against a set of Templat
 
 The presented method allows applications to perform efficiently matching tasks with arbitrary mask regions.
 
-Follow this [link](https://github.com/emgmetrics/TMM/tree/main/Doc) for a detail description of the Algorithm on the "Finding Templates Images with Masked Regions.pdf" document.
+Follow this [Link](https://github.com/emgmetrics/TMM/tree/main/Doc) for a detail description of the Algorithm on the "Finding Templates Images with Masked Regions.pdf" document.
 
 ## CONFIGURATION MANAGEMENT 
 
